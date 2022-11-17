@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'com.github.Neutron-Pro:promise-core:{{ version }}'
+  implementation 'com.github.Neutron-Pro:promise-api:{{ version }}'
 }
 ```
 
